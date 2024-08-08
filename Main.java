@@ -10,7 +10,7 @@ public class Main {
 		
 		int x =10, y = 20, z = 30;
 		
-		int h = 2,i = 5,j = 10;
+		int h = 2, i = 5, j = 10;
 		
 		System.out.println(nome);
 		
